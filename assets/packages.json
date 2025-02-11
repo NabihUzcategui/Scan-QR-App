@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ZIPPIN-0001",
+    "remitente": "Empresa Alfa",
+    "destinatario": "Juan Pérez",
+    "estado": "En preparación"
+  },
+  {
+    "id": "ZIPPIN-0002",
+    "remitente": "Empresa Beta",
+    "destinatario": "María Gómez",
+    "estado": "En tránsito"
+  },
+  {
+    "id": "ZIPPIN-0003",
+    "remitente": "Empresa Gamma",
+    "destinatario": "Pedro Rodríguez",
+    "estado": "Intento de entrega fallido"
+  },
+  {
+    "id": "ZIPPIN-0004",
+    "remitente": "Empresa Delta",
+    "destinatario": "Ana Martínez",
+    "estado": "En preparación"
+  },
+  {
+    "id": "ZIPPIN-0005",
+    "remitente": "Empresa Epsilon",
+    "destinatario": "Luisa Sánchez",
+    "estado": "En tránsito"
+  },
+  {
+    "id": "ZIPPIN-0006",
+    "remitente": "Empresa Zeta",
+    "destinatario": "Carlos López",
+    "estado": "Intento de entrega fallido"
+  },
+  {
+    "id": "ZIPPIN-0007",
+    "remitente": "Empresa Eta",
+    "destinatario": "Javier García",
+    "estado": "Devuelto"
+  },
+  {
+    "id": "ZIPPIN-0008",
+    "remitente": "Empresa Theta",
+    "destinatario": "Sara Fernández",
+    "estado": "En tránsito"
+  },
+  {
+    "id": "ZIPPIN-0009",
+    "remitente": "Empresa Iota",
+    "destinatario": "Raúl Ramírez",
+    "estado": "En tránsito"
+  },
+  {
+    "id": "ZIPPIN-0010",
+    "remitente": "Empresa Kappa",
+    "destinatario": "Elena Jiménez",
+    "estado": "Devuelto"
+  }
+]
