@@ -20,7 +20,7 @@ Integración con Bloc:  para manejar de manera rápida y potente los estados den
 + información en : [https://pub.dev/packages/provider](https://pub.dev/packages/flutter_bloc)
 
 
-El proyecto esta separado en distintas carpetas y archicos, tratando de mantener una estructura limpia y entendible y escalable.
+El proyecto esta separado en distintas carpetas y archivos, tratando de mantener una estructura limpia, entendible y escalable.
 
 # Pre requisitos
 
@@ -29,7 +29,7 @@ SDK de Flutter instalado en su máquina de desarrollo.
 
 # Instalación
 
-Clonar el repositoriousando: git clone https://github.com/NabihUzcategui/Scan-QR-App
+Clonar el repositorio usando: git clone https://github.com/NabihUzcategui/Scan-QR-App
 
 Navegar al directorio del proyecto cd Scan-QR-App/blob/master/lib/main.dart
 
