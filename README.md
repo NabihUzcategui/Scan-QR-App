@@ -10,7 +10,7 @@ El proyecto consiste en crear una App con Flutter (UI + Lógica de Negocio) que 
 ![homescreen](https://github.com/user-attachments/assets/9da0887a-62c9-4e7c-ba11-b073c452cb9e) ![id escaneados](https://github.com/user-attachments/assets/dd2efd68-477f-40c8-8ea8-9fafdb0cd4b9) ![detalle escaneados](https://github.com/user-attachments/assets/15b086f7-c8cd-4c77-972e-ef4e30366c82)
 
 
-
+https://github.com/user-attachments/assets/b73534d6-e6c7-477a-bc21-22701d8532b4
 
 
 
