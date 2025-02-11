@@ -38,7 +38,6 @@ class ScanBloc extends Bloc<ScanEvent, ScanState> {
       final foundPackage = repository.getPackageById(event.code);
 
       if (foundPackage != null) {
-        // Agregamos el paquete escaneado a la lista en memoria.
         _scannedPackages.add(foundPackage);
 
         emit(
@@ -48,9 +47,8 @@ class ScanBloc extends Bloc<ScanEvent, ScanState> {
           ),
         );
       } else {
-        // Podrías manejar un estado de error o notificar que no existe
         emit(ScanError('No se encontró el paquete con código: ${event.code}'));
-        // Luego, podrías retornar al estado anterior si gustas
+
         emit(currentState);
       }
     }

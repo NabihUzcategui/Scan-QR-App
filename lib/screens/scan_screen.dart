@@ -14,7 +14,7 @@ class ScanScreen extends StatefulWidget {
 }
 
 class _ScanScreenState extends State<ScanScreen> {
-  final GlobalKey qrKey = GlobalKey(debugLabel: 'QR');
+  final GlobalKey qrKey = GlobalKey(debugLabel: CustomStrings.qr);
   QRViewController? controller;
   bool _dialogVisible = false;
 

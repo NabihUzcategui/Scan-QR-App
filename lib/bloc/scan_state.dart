@@ -12,7 +12,6 @@ abstract class ScanState extends Equatable {
 class ScanInitial extends ScanState {}
 
 // Estado de carga
-
 class ScanLoading extends ScanState {}
 
 // Estado de carga exitosa a la lista de paquetes

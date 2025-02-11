@@ -56,7 +56,7 @@ class ScannedPackagesScreen extends StatelessWidget {
                     10.pv,
                     CardContainer(
                       title: Text(
-                        'ID: ${pkg.id}',
+                        '${CustomStrings.scannedPackageId} ${pkg.id}',
                         textAlign: TextAlign.center,
                         style: CustomTextStyle().title,
                       ),

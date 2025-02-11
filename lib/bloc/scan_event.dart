@@ -1,4 +1,3 @@
-
 import 'package:equatable/equatable.dart';
 
 abstract class ScanEvent extends Equatable {
@@ -8,10 +7,10 @@ abstract class ScanEvent extends Equatable {
   List<Object> get props => [];
 }
 
-// Evento para cargar los paquetes
+// cargar los paquetes
 class LoadPackages extends ScanEvent {}
 
-// Evento para escanear un paquete
+// escanear un paquete
 class ScanPackage extends ScanEvent {
   final String code;
 
