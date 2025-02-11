@@ -39,6 +39,11 @@ class HomeScanScreen extends StatelessWidget {
             50.pv,
             CustomDivider(),
             50.pv,
+            Text(CustomStrings.lastedSacnnedPackagesId,
+                style: CustomTextStyle().title),
+            20.pv,
+            Icon(Icons.arrow_downward_sharp),
+            20.pv,
             Expanded(
               child:
                   BlocBuilder<ScanBloc, ScanState>(builder: (context, state) {
