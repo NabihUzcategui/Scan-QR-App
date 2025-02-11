@@ -73,7 +73,6 @@ class HomeScanScreen extends StatelessWidget {
                   }
                 }
 
-                // ScanInitial u otro estado
                 return Scaffold(
                   body: Center(child: Text(CustomStrings.noDataYet)),
                 );

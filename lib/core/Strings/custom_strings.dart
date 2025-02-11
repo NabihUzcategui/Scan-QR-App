@@ -9,12 +9,12 @@ class CustomStrings {
   static final String labelScannedPackages = 'Paquetes Escaneados';
   static final String keepScanning = 'Seguir Escaneando';
   static final String close = 'Cerrar';
+  static final String error = 'Error';
   static final String scannedPackageId = 'ID: ';
   static final String scannedPackageSender = 'Remitente: ';
   static final String scannedPackageRecipient = 'Destinatario: ';
   static final String scannedPackageState = 'Estado: ';
   static final String lastedSacnnedPackagesId = 'Últimos paquetes escaneados: ';
-
 }
 
 class CustomStringState {
